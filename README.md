@@ -1,3 +1,3 @@
-# Java Assessment - Programming Logic
+# Java Topic - Sample code from presentation
 
-Follow the instructions on lms.kenzie.academy to complete this assignment.
+View the playback for Topic Session: Debugger and Loops for reference
